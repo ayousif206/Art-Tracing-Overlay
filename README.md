@@ -8,7 +8,7 @@ Project provides a lightweight overlay window that can display images from local
 
 ## Features
 
-* **Interactability**: Make the window ignore mouse inputs, allowing user to work on the canvas underneath
+* **Interactability**:
     * **Ghost Mode**: Make the window ignore mouse inputs, allowing user to work on the canvas underneath
     * **Interactive Mode**: Enables dragging, resizing, and accessing the control bar
     * **Appearance Adapatation**: For the user's comfort and for design's sake, the UI adjusts its control bar background and buttons color based on the average color of the current image
